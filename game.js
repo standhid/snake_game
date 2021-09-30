@@ -11,7 +11,7 @@ function main(currentTime) {
 
     if(gameOver) {
         if(confirm("Game Over!")){
-            window.location = '/'
+            window.location = 'https://standhid.github.io/snake_game/'
         }
         return
     }
